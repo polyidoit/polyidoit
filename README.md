@@ -19,7 +19,7 @@
 
 - 🎞️ Know about my experiences [https://polyidoit.github.io/jia/index.html](https://polyidoit.github.io/jia/index.html)
 
-- 🙂‍↔️ Fun fact **Sometimes, we have definitions and theorems, but we donot have examples :>**
+- ⏳ Fun fact **Sometimes, we have definitions and theorems, but we donot have examples :>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
