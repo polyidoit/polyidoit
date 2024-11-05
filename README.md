@@ -7,19 +7,19 @@
 
 - 🔭 I’m currently working on **TQFT & topological order**
 
-- 🌱 I’m currently learning **Language: Korean; Math: Topoi; Physics: AQFT**
+- 🙇🏼 I’m currently learning **Language: Korean; Math: Topoi; Physics: AQFT**
 
 - 👯 I’m looking to collaborate on **quantum error-correction code**
 
-- 📝 I regularly write articles on [https://quantumjia.wordpress.com/](https://quantumjia.wordpress.com/)
+- 📠 I regularly write articles on [https://quantumjia.wordpress.com/](https://quantumjia.wordpress.com/)
 
 - 💬 Ask me about **quantum field theory, TQFT, topological order, quantum infomation, quantum computation.**
 
 - 📫 How to reach me **giannjia@foxmail.com**
 
-- 📄 Know about my experiences [https://polyidoit.github.io/jia/index.html](https://polyidoit.github.io/jia/index.html)
+- 🎞️ Know about my experiences [https://polyidoit.github.io/jia/index.html](https://polyidoit.github.io/jia/index.html)
 
-- ⚡ Fun fact **Sometimes, we have definitions and theorems, but we donot have examples :>**
+- 🙂‍↔️ Fun fact **Sometimes, we have definitions and theorems, but we donot have examples :>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
