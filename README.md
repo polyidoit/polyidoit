@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **quantum error-correction code**
 
-- 📠 I regularly write articles on [https://quantumjia.wordpress.com/](https://quantumjia.wordpress.com)
+- 📠 I regularly write articles on [https://quantumjia.wordpress.com](https://quantumjia.wordpress.com)
 
 - 💬 Ask me about **quantum field theory, TQFT, topological order, quantum infomation, quantum computation.**
 
