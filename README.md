@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/zhianjia" target="blank"><img src="https://img.shields.io/twitter/follow/zhianjia?logo=twitter&style=for-the-badge" alt="zhianjia" /></a> </p>
 
-- 🔭 I’m currently working on **TQFT & topological order**
+- 🔭 I’m currently working on **TQFT & topological order & quantum inforamtion**
 
 - 🙇🏼 I’m currently learning **Language: Korean; Math: Topoi; Physics: AQFT**
 
 - 👯 I’m looking to collaborate on **quantum error-correction code**
 
-- 📠 I regularly write articles on [https://quantumjia.wordpress.com/](https://quantumjia.wordpress.com/)
+- 📠 I regularly write articles on [https://quantumjia.wordpress.com/](https://quantumjia.wordpress.com)
 
 - 💬 Ask me about **quantum field theory, TQFT, topological order, quantum infomation, quantum computation.**
 
