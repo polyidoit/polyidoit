@@ -1,5 +1,14 @@
 <h1 align="center">Hi, I'm Zhian Jia</h1>
-<p align="center">I am a passionate researcher specializing in mathematical and theoretical physics, with a primary focus on Topological Quantum Field Theory (TQFT), topological order, quantum information, and quantum computation.</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/25fc459f-8698-4df1-94eb-c9739117db95" alt="RainyDay">
+</p>
+
+<p align="center"><em style="font-size: 12px;">Gif is based on a video made by Xianyu</em></p>
+
+<p align="center">I am a passionate researcher specializing in mathematical and theoretical physics, with a primary focus on topological quantum field theory (TQFT), topological order, quantum information, and quantum computation.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polyidoit&label=Profile%20views&color=0e75b6&style=flat" alt="polyidoit" /> </p>
 
@@ -7,7 +16,7 @@
 
 - 🔭 I’m currently working on **TQFT & topological order & quantum inforamtion**
 
-- 🙇🏼 I’m currently learning **Language: Korean; Math: Topoi; Physics: AQFT**
+- 🙇🏼 I’m currently learning **Language: Korean, French; Math: Topoi; Physics: AQFT**
 
 - 👯 I’m looking to collaborate on **quantum error-correction code**
 
@@ -17,7 +26,7 @@
 
 - 📫 How to reach me **giannjia@foxmail.com**
 
-- 🎞️ Know about my experiences [https://polyidoit.github.io/jia/index.html](https://polyidoit.github.io/jia/index.html)
+- 🎞️ My homepage [https://polyidoit.github.io/jia/index.html](https://polyidoit.github.io/jia/index.html)
 
 - ⏳ Fun fact **Sometimes, we have definitions and theorems, but we donot have examples :>**
 
