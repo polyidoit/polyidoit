@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Zhian Jia</h1>
-<h3 align="center">A passionate researcher working on mathematical and theoretical physics.</h3>
+<p align="center">I am a passionate researcher specializing in mathematical and theoretical physics, with a primary focus on Topological Quantum Field Theory (TQFT), topological order, quantum information, and quantum computation.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polyidoit&label=Profile%20views&color=0e75b6&style=flat" alt="polyidoit" /> </p>
 
