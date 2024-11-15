@@ -1,6 +1,4 @@
-<h1 align="center">Hi, I'm Zhian Jia</h1>
-
-
+<h1 align="center" style="color: #4CAF50;">Hi, I'm Zhian Jia</h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/25fc459f-8698-4df1-94eb-c9739117db95" alt="RainyDay">
@@ -72,7 +70,7 @@ Physics: AQFT
 
 
 💻 **I regularly write articles on:**  
-[Blog](https://quantumjia.wordpress.com)
+[Blog: Chronicle of Mathematical Physics](https://quantumjia.wordpress.com)
 
 🧸 **Ask me about:**  
 Quantum Field Theory, TQFT, Topological Order, Quantum Information, Quantum Computation
@@ -84,13 +82,4 @@ Quantum Field Theory, TQFT, Topological Order, Quantum Information, Quantum Comp
 [Zhian Jia](https://polyidoit.github.io/jia/index.html)
 
 ---
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/zhianjia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zhianjia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zhian-jia-9047a0268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhian-jia-9047a0268" height="30" width="40" /></a>
-<a href="https://fb.com/polyidiot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="polyidiot" height="30" width="40" /></a>
-<a href="https://instagram.com/zhian_jia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zhian_jia" height="30" width="40" /></a>
-</p>
 
