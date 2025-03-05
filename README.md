@@ -7,7 +7,7 @@
 
 <p align="center"><em style="font-size: 12px;">Gif is based on a video made by Xianyu</em></p>
 
-<p align="center">I am a passionate researcher specializing in mathematical and theoretical physics, with a primary focus on topological quantum field theory (TQFT), topological order, quantum information, and quantum computation.</p>
+<p align="center">I am a researcher specializing in mathematical and theoretical physics, with a primary focus on topological quantum field theory (TQFT), topological order, quantum information, and quantum computation.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polyidoit&label=Profile%20views&color=0e75b6&style=flat" alt="polyidoit" /> </p>
 
