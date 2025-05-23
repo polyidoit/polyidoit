@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #4CAF50;">Hi, I'm Zhian Jia</h1>
+<h1 align="center" style="color: #4CAF50;">Hi, I'm Zhian Jia (贾治安)</h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/25fc459f-8698-4df1-94eb-c9739117db95" alt="RainyDay">
@@ -64,7 +64,7 @@
 Mathematical physics, QFT, TQFT, Topological Order, Quantum Information and computation
 
 🙇🏼 **Currently learning:**  
-Languages: Korean, French  
+Languages: Korean, French, Japanese  
 Math: Topos and higher topos  
 Physics: AQFT
 
