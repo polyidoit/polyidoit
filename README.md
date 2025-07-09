@@ -61,10 +61,10 @@
 ---
 
 📠 **Currently working on:**  
-Mathematical physics, QFT, TQFT, Topological Order, Quantum Information and computation
+Mathematical physics, QFT, TQFT, Topological Order, Quantum algebra, Quantum Information and computation
 
 🙇🏼 **Currently learning:**  
-Languages: Korean, French, Japanese  
+Languages: French,  Korean, Japanese  
 Math: Topos and higher topos  
 Physics: AQFT
 
