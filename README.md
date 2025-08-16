@@ -61,19 +61,14 @@
 ---
 
 📠 **Currently working on:**  
-Mathematical physics, QFT, TQFT, Topological Order, Quantum algebra, Quantum Information and computation
-
-🙇🏼 **Currently learning:**  
-Languages: French,  Korean, Japanese  
-Math: Topos and higher topos  
-Physics: AQFT
+Mathematical physics, QFT, TQFT, Topological Order, Quantum algebra, Quantum Information, Quantum computation, Quantum machine learning.
 
 
 💻 **I regularly write articles on:**  
 [Blog: Chronicle of Mathematical Physics](https://quantumjia.wordpress.com)
 
-🧸 **Ask me about:**  
-Quantum Field Theory, TQFT, Topological Order, Quantum Information, Quantum Computation
+🪢 **Ask me about:**  
+Quantum Field Theory, TQFT, Topological Order, Quantum Information, Quantum Computation, Quantum foundations.
 
 📫 **How to reach me:**  
 [giannjia@foxmail.com](mailto:giannjia@foxmail.com)
